@@ -20,6 +20,10 @@
 
 > this starts storybook where you can run components in isolation
 
+# VSCODE
+
+to start vscode in folder you are in write `code .`
+
 # GIT
 
 > these operations can normally be run through `visual studio code`
