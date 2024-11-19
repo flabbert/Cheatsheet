@@ -1,4 +1,14 @@
-# npm
+# terminal
+
+### cd foldername
+
+> this changes you to the next folder inside your current folder
+
+### cd ..
+
+> this will move you back up one tier in the folder structure
+
+## npm (inside terminal)
 
 > this is the framework that downloads, manages, and runs your code, and external packages in your project
 
